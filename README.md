@@ -16,6 +16,8 @@ blublublu and other change
 
 ## How to contribute
 
+Please fork this repo and then issue Pull Request for review
+
 ## Copyright
 
 2018 - VinZ
