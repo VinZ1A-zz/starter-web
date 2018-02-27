@@ -15,3 +15,7 @@ Sample website with plenty of files for demos
 blublublu and other change
 
 ## How to contribute
+
+## Copyright
+
+2018 - VinZ
