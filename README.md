@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This repository is for showing how Git and GitHub work together.
-Adding some more text here.
+Adding some more text here, then more changes from myFeatureBranch as well.
 
 ## Introduction
 
