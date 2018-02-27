@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Vincent Pingard -- Some Dude -- @noTwitter
 
 # THANKS
 
